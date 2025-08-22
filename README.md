@@ -14,7 +14,10 @@ Puts a cooldown on your map teleport. It defaults to 30 minutes but you can chan
 
 ### Options
 
-The options menu ingame has settings for the mod, under the "General" tab. You can configure the duration (0/15/30/60/90 minutes), and also toggle "Only At Landmarks" to allow you to teleport only if you're already at a landmark. (This overrides the NG+ option for that, and is implemented a little bit nicer.)
+The options menu ingame has settings for the mod, under the "General" tab.
+
+- **Teleport Cooldown**: 0/15/30/60/90 minutes
+- **Only At Landmarks**: allow teleports only if you're already at a landmark. (This overrides the NG+ option for that, and is implemented a little bit nicer.)
 
 ### Installation
 
