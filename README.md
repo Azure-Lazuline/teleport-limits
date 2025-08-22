@@ -2,13 +2,13 @@
 
 ![](https://github.com/Azure-Lazuline/teleport-limits/blob/main/screenshots/screenshot.jpg?raw=true)
 
-Puts a cooldown on your map teleport. It defaults to 30 minutes but you can change it higher or lower.
+Puts a cooldown on your map teleport. It defaults to 30 minutes but you can change it higher or lower. Teleporting to player-owned housing is always free.
 
 > *"why would anyone want that?"*
 
 - if you're always teleporting exactly where you need to go, the world risks feels like a bunch of disconnected rooms instead of a huge physical location.
 - there's interesting routing decisions to be made regarding how to best get from one area to another, including CrossCentral and the Sky Rail, which just never get used normally.
-- it gives you more reasons to pass by areas you've already seen, and possibly finding secrets you missed.
+- it gives you more reasons to pass by areas you've already seen, and possibly find secrets you missed.
 - it feels more lore-compliant, since everyone *else* is always running on foot everywhere. It's important for MMOs to have emergent reasons for you to encounter other players, and travel is one of the most common places for that to happen.
 - and most importantly, sometimes it's just nice to take things slower instead of always rushing the next objective.
 
