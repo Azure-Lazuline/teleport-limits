@@ -1,0 +1,16 @@
+{
+  "id": "teleport-limits",
+  "version": "1.0.0",
+  "title": "Teleport Limits",
+  "description": {
+    "en_US": "Adds a cooldown to your map teleport. Learn the map and make good use of CrossCentral!"
+  },
+  "repository": "",
+  "tags": ["QoL"],
+  "authors": "Azure Lazuline",
+  "icons": {
+    "24": "icon24.png"
+  },
+  "prestart": "_prestart.js",
+  "poststart": "_poststart.js"
+}
