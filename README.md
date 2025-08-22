@@ -6,7 +6,7 @@ Puts a cooldown on your map teleport. It defaults to 30 minutes but you can chan
 
 > *"why would anyone want that?"*
 
-- if you're always teleporting exactly where you need to go, the world risks feels like a bunch of disconnected rooms instead of a huge physical location.
+- if you're always teleporting exactly where you need to go, the world risks feeling like a bunch of disconnected rooms instead of a huge physical location.
 - there's interesting routing decisions to be made regarding how to best get from one area to another, including CrossCentral and the Sky Rail, which just never get used normally.
 - it gives you more reasons to pass through areas you'd ignore, and possibly find secrets you missed.
 - it feels more lore-compliant, since everyone *else* is always running on foot everywhere. It's important for MMOs to have emergent reasons for you to encounter other players, and travel is one of the most common places for that to happen.
